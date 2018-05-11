@@ -1,0 +1,8 @@
+*.o
+cmake-build-debug/*
+CMakeLists.txt
+main
+.idea/*
+__pycache__
+Masks
+main.h
