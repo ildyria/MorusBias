@@ -1,6 +1,6 @@
 #include "main.h"
 
-inline uint64_t linear_sample(struct RNG_state* seed)
+uint64_t linear_sample(struct RNG_state* seed)
 {
 	state saved_state[6];
 	state state;
